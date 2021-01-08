@@ -23,10 +23,11 @@ This portion of the app handles the placement and contents of various widgets fo
 ## CRUD Functionality
 Finally I implemented CRUD Functionality through the use of different functions.
 
+### Create
 ![Student tracker create](./readme_images/create_function.png)
-
+### Read
 ![Student tracker read](./readme_images/read_function.png)
-
+### Update
 ![Student tracker update](./readme_images/update_function.png)
-
+### Delete
 ![Student tracker delete](./readme_images/delete_function.png)
