@@ -8,6 +8,12 @@ Technologies used in creation:
 - Tkinter
 - SQLite3
 
+ ## Table of Contents
+ * [Window Manager](/README.md#window-manager)
+ * [Geometry manager](/README.md#geometry-manager)
+ * [CRUD Functionality](/README.md#crud-functionality)
+ * [Closing Thoughts](/README.md#closing-thoughts)
+
 ![Student Tracker App](./readme_images/app_gui.png)
 
 ## Window Manager
@@ -31,3 +37,6 @@ Finally I implemented CRUD Functionality through the use of different functions.
 ![Student tracker update](./readme_images/update_function.png)
 ### Delete
 ![Student tracker delete](./readme_images/delete_function.png)
+
+## Closing Thoughts
+This project was a great way to exercise my GUI creation abilities and use of various widgets. If I were to expand this in the future, I would like to add the ablity to store a students full schedule with names of teachers for each class as well as other information like: grade level, GPA, and possibly individual class grades.
