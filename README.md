@@ -10,7 +10,7 @@ Technologies used in creation:
 
 ![Student Tracker App](./readme_images/app_gui.png)
 
-## Main App File
+## Window Manager
 I started this project by creating the main app file which will handle rendering the GUI through the Window Manager. This class also handles the calling of the Geometry Manager.
 
 ![Student tracker Window Manager](./readme_images/main_gui.png)
